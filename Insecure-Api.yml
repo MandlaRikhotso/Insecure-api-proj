@@ -1,6 +1,6 @@
 openapi: 3.0.1
 info:
-  title: VAmPI
+  title: insecure-api-project
   description: OpenAPI v3 specs for insecure-api-project
   version: '0.1'
 servers:
